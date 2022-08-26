@@ -1,0 +1,29 @@
+_repo: Three-generations_68804
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Elliott, Maud Howe
+    alias: Howe, Maud
+    birthdate: 1854
+    deathdate: 1948
+    gutenberg_agent_id: '39593'
+    url: http://www.gutenberg.org/2009/agents/39593
+    wikipedia: https://en.wikipedia.org/wiki/Maud_Howe_Elliott
+description: ''
+gutenberg_issued: '2022-08-21'
+identifiers:
+  gutenberg: '68804'
+language: en
+pgterms:marc905: 20210814094844elliott
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: United States :Litte, Brown and Company,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Three generations
+url: http://www.gutenberg.org/ebooks/68804
